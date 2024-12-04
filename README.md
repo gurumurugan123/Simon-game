@@ -1,4 +1,4 @@
-Simon Game 🎮
+#Simon Game 🎮
 A simple and interactive memory game that tests and improves your memory skills by recalling an increasing sequence of colors and sounds!
 
 🚀 Features
